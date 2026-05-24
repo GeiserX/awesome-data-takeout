@@ -57,7 +57,9 @@ Awesome list of data export pages/tools for most common online services
 
 ## Developer tools and services
 
-* [GitHub](https://docs.github.com/en/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data) - requesting an archive of your personal account’s data
+* [GitHub](https://docs.github.com/en/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data) - requesting an archive of your personal account's data
+* [github2md](https://github.com/juanmanueldaza/github2md) - convert GitHub profile data exports to Markdown for LLM analysis
+* [gitlab2md](https://github.com/juanmanueldaza/gitlab2md) - convert GitLab profile data exports to Markdown for LLM analysis
 * [Postman](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#exporting-postman-data) - backup your collections, environments, etc. Also they have [this useful section](https://www.postman.com/legal/privacy-policy/#how-to-access-and-control-your-information) in privacy policy about how to access and control your information
 * [Jira Cloud](https://support.atlassian.com/jira-cloud-administration/docs/export-issues/) - export data from Jira Cloud
 
